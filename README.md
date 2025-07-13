@@ -1,4 +1,4 @@
-# Skolyoz-te-hisi-ve-Cobb-a-s-hesaplama
+# Skolyoz Teşhisi ve Cobb Açısı Hesaplama
 
 Python ve Tkinter kullanılarak geliştirilen bu projede, Kaggle'dan alınan omurga görüntüleriyle Cobb açısı Hough Transform yöntemiyle hesaplanmıştır.
 
