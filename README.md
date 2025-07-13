@@ -1,0 +1,1 @@
+# Skolyoz-te-hisi-ve-Cobb-a-s-hesaplama
